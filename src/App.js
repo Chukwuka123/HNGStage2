@@ -23,7 +23,7 @@ function Home() {
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="10%" height="50px"/>
             <img  src="https://launchpad.syr.edu/wp-content/uploads/2021/09/Slack-logo.jpg" alt="slack logo" width="10%" height="50px"/>
     </div>
-    <div className="justify-center space-x-25 m-auto flex w-full">
+    <div className="justify-center space-x-20 m-auto flex w-full">
 <p className="font-black">Zuri.Internship</p> 
 
  <p>HNG Internship 9 Frontend Task</p> 
